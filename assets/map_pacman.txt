@@ -1,0 +1,25 @@
+aAAAAAAAAAkAAAAAAAAAb
+BO........B........OB
+B.aAb.aAb.B.aAb.aAb.B
+B.B B.B B.B.B B.B B.B
+B.dAc.dAc.h.dAc.dAc.B
+B.........X.........B
+B.aAb.g.aAAAb.g.aAb.B
+B.dAc.B.dAkAc.B.dAc.B
+B.....B...B...B.....B
+dAAAb.iAf h eAj.aAAAc
+    B.B       B.B    
+eAAAc.h aA-Ab h.dAAAf
+     .  B , B  .     
+eAAAb.g dAAAc g.aAAAf
+    B.B       B.B    
+aAAAc.h eAkAf h.dAAAb
+B.........B.........B
+B.eAb.eAf.h.eAf.aAf.B
+B...B...........B...B
+iAb.B.g.aAAAb.g.B.aAj
+iAc.h.B.dAkAc.B.h.dAj
+BO....B...B...B....OB
+B.eAAAlAf.h.eAlAAAf.B
+B...................B
+dAAAAAAAAAAAAAAAAAAAc

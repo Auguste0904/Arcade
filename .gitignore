@@ -1,0 +1,9 @@
+arcade
+*.o
+*.cpp~
+.vscode
+*.so
+*.gcno
+*.gcda
+unit_tests
+assets/score.txt
